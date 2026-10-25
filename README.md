@@ -1,6 +1,7 @@
 # Lab5Web — Praktikum 5: JavaScript Dasar dan Manipulasi HTML
  
 **Mata kuliah:** Pemrograman Web — Pertemuan 6
+
 **Rahsya Alfrendika / 312510339 / Kelas: I253C** 
  
 ## Tujuan
