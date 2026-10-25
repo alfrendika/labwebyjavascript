@@ -1,7 +1,7 @@
 # Lab5Web — Praktikum 5: JavaScript Dasar dan Manipulasi HTML
  
 **Mata kuliah:** Pemrograman Web — Pertemuan 6
-**Nama / NIM / Kelas:** _(isi sendiri)_
+**Rahsya Alfrendika / 312510339 / Kelas: I253C** 
  
 ## Tujuan
 1. Memahami sintaks dasar JavaScript dan cara menyisipkan JavaScript pada HTML.
