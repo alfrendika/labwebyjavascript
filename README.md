@@ -1,4 +1,4 @@
-# Lab5Web — Praktikum 5: JavaScript Dasar dan Manipulasi HTML
+# Lab5Web — Praktikum 5: JavaScript
  
 **Mata kuliah:** Pemrograman Web — Pertemuan 6
 
