@@ -54,7 +54,7 @@ function latihanNilai() {
     alert("Input tidak valid. Masukkan angka dari 0 sampai 100.");
   } else {
     alert(nilai >= 65 ? "LULUS" : "BELUM LULUS!");
-    alert(nilai <= 40 ? "MAKANNYA BELAJAR ANJING, COLI MULU LU " : "MANTAP TINGKATKAN PRESTASIMU!");
+    alert(nilai <= 40 ? "MAKANNYA BELAJAR YANG BENAR! " : "MANTAP TINGKATKAN PRESTASIMU!");
   }
 }
 
