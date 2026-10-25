@@ -89,8 +89,5 @@ Method ini mencari elemen di DOM yang atribut `id`-nya sama persis dengan string
 **7. Validasi form (nama tidak kosong, nilai 0–100)**
 Lihat `validasiForm()` di `script.js` (bagian "Eksperimen 4 dan Tugas 7").
  
-## Catatan
-- Tanpa framework; hanya HTML dan JavaScript murni.
-- Output pada halaman memakai `textContent` agar aman dari injeksi HTML.
  
 
